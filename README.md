@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @idle-user
+- 👀 I’m interested in all things programming. This includes database management and both software and web development (front and back end).
+- 🌱 I’m always eager to learn new methods and techniques for solving common day problems.
+- 💞️ I’m looking to collaborate with anyone wanting that is also wanting to learn about database management and backend programming.
+- 📫 You can reach me by visiting my [website's contact form](https://idleuser.com/contact) or any of my linked social media.
